@@ -1,6 +1,10 @@
 board = [
-  row 1 = " ", " ", " "]# Define the variable board below.
-  row [0]
-  row [1]
-  row [2]
+  first_row  = " ", " ", " "]# Define the variable board below.
+  first_row  [0]
+  first_row  [1]
+  first_row  [2]
+  second_row = " ", " ", " "]
+  first_row  [0]
+  first_row  [1]
+  first_row  [2]
   
